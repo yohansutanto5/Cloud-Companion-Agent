@@ -1,0 +1,32 @@
+{"level":"info","msg":"Loaded Configuration Environment:test from :/home/yohan/portfolio/Cloud-Companion-Agent/cmd/config","time":"2025-08-20T20:28:00+07:00"}
+{"level":"info","msg":"Connection to Database is Established","time":"2025-08-20T20:28:00+07:00"}
+postgres://postgres.jbbomqhldwgzhdamosyd:Bajingan.1@aws-1-ap-southeast-1.pooler.supabase.com:6543/postgres?sslmode=disable&search_path=default
+{"level":"info","msg":"Current migration version: %!s(uint=1) (dirty: %!s(bool=false))\n","time":"2025-08-20T20:28:00+07:00"}
+{"level":"info","msg":"Setting Up API Routes","time":"2025-08-20T20:28:00+07:00"}
+{"level":"info","msg":"Application is running","time":"2025-08-20T20:28:00+07:00"}
+{"Code":"APP-SUCCESS","agent":"Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0","clientIp":"127.0.0.1","duration":0,"level":"info","method":"GET","msg":"Success","path":"/","status":404,"time":"2025-08-20T20:28:45+07:00","transactionID":354610}
+{"Code":"APP-SUCCESS","agent":"Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0","clientIp":"127.0.0.1","duration":0,"level":"info","method":"GET","msg":"Success","path":"/favicon.ico","status":404,"time":"2025-08-20T20:28:45+07:00","transactionID":845837}
+{"Code":"APP-SUCCESS","agent":"Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0","clientIp":"127.0.0.1","duration":157,"level":"info","method":"GET","msg":"Success","path":"/health","status":200,"time":"2025-08-20T20:28:50+07:00","transactionID":521702}
+{"Code":"APP-SUCCESS","agent":"Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0","clientIp":"127.0.0.1","duration":0,"level":"info","method":"GET","msg":"Success","path":"/favicon.ico","status":404,"time":"2025-08-20T20:28:50+07:00","transactionID":556815}
+{"Code":"APP-SUCCESS","agent":"Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0","clientIp":"127.0.0.1","duration":0,"level":"info","method":"GET","msg":"Success","path":"/connect","status":404,"time":"2025-08-20T20:28:56+07:00","transactionID":275007}
+{"Code":"APP-SUCCESS","agent":"Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0","clientIp":"127.0.0.1","duration":0,"level":"info","method":"GET","msg":"Success","path":"/favicon.ico","status":404,"time":"2025-08-20T20:28:56+07:00","transactionID":958936}
+{"level":"info","msg":"Loaded Configuration Environment:test from :/home/yohan/portfolio/Cloud-Companion-Agent/cmd/config","time":"2025-08-20T20:31:44+07:00"}
+{"level":"info","msg":"Connection to Database is Established","time":"2025-08-20T20:31:45+07:00"}
+postgres://postgres.jbbomqhldwgzhdamosyd:Bajingan.1@aws-1-ap-southeast-1.pooler.supabase.com:6543/postgres?sslmode=disable&search_path=default
+{"level":"info","msg":"Current migration version: %!s(uint=1) (dirty: %!s(bool=false))\n","time":"2025-08-20T20:31:46+07:00"}
+{"level":"info","msg":"Setting Up API Routes","time":"2025-08-20T20:31:46+07:00"}
+{"level":"info","msg":"Application is running","time":"2025-08-20T20:31:46+07:00"}
+{"Code":"APP-SUCCESS","agent":"Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0","clientIp":"127.0.0.1","duration":0,"level":"info","method":"GET","msg":"Success","path":"/connect","status":404,"time":"2025-08-20T20:31:48+07:00","transactionID":297540}
+{"Code":"APP-SUCCESS","agent":"Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0","clientIp":"127.0.0.1","duration":0,"level":"info","method":"GET","msg":"Success","path":"/connect","status":404,"time":"2025-08-20T20:31:49+07:00","transactionID":546698}
+{"Code":"APP-SUCCESS","agent":"Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0","clientIp":"127.0.0.1","duration":0,"level":"info","method":"GET","msg":"Success","path":"/connect","status":404,"time":"2025-08-20T20:31:49+07:00","transactionID":244450}
+{"Code":"APP-SUCCESS","agent":"Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0","clientIp":"127.0.0.1","duration":0,"level":"info","method":"GET","msg":"Success","path":"/connect","status":404,"time":"2025-08-20T20:31:50+07:00","transactionID":260983}
+{"Code":"APP-SUCCESS","agent":"Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0","clientIp":"127.0.0.1","duration":0,"level":"info","method":"GET","msg":"Success","path":"/connect","status":404,"time":"2025-08-20T20:31:50+07:00","transactionID":876101}
+{"Code":"APP-SUCCESS","agent":"Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0","clientIp":"127.0.0.1","duration":0,"level":"info","method":"GET","msg":"Success","path":"/connect","status":404,"time":"2025-08-20T20:31:50+07:00","transactionID":420341}
+{"Code":"APP-SUCCESS","agent":"Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0","clientIp":"127.0.0.1","duration":0,"level":"info","method":"GET","msg":"Success","path":"/connect","status":404,"time":"2025-08-20T20:31:50+07:00","transactionID":434327}
+{"Code":"APP-SUCCESS","agent":"Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0","clientIp":"127.0.0.1","duration":0,"level":"info","method":"GET","msg":"Success","path":"/connect","status":404,"time":"2025-08-20T20:31:50+07:00","transactionID":589861}
+{"Code":"APP-SUCCESS","agent":"Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0","clientIp":"127.0.0.1","duration":0,"level":"info","method":"GET","msg":"Success","path":"/connect","status":404,"time":"2025-08-20T20:31:50+07:00","transactionID":536336}
+
+2025/08/20 20:32:38 [31;1m/home/yohan/portfolio/Cloud-Companion-Agent/db/User.go:10 [35;1mERROR: relation "users" does not exist (SQLSTATE 42P01)
+[0m[33m[127.318ms] [34;1m[rows:0][0m SELECT * FROM "users"
+{"Code":"APP-DB-UNKNOWN","agent":"Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0","clientIp":"127.0.0.1","duration":127,"level":"error","method":"GET","msg":"ERROR: relation \"users\" does not exist (SQLSTATE 42P01)","path":"/user","status":500,"time":"2025-08-20T20:32:38+07:00","transactionID":795708}
+{"Code":"APP-SUCCESS","agent":"Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0","clientIp":"127.0.0.1","duration":0,"level":"info","method":"GET","msg":"Success","path":"/favicon.ico","status":404,"time":"2025-08-20T20:32:38+07:00","transactionID":325212}

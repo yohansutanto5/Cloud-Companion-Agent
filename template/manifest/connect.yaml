@@ -1,0 +1,23 @@
+model: Connect
+fields:
+  - name: ID
+    type: int
+    binding: required
+    constraint: primaryKey;autoIncrement
+  - name: Host
+    type: string
+    binding: required
+  - name: Port
+    type: int
+    binding: none
+    constraint: notNull
+
+routers:
+  - method: get
+    call: GetList
+    path: /connect
+    instruction: Get list of telnet result
+  - method: post
+    call: Insert
+    path: /connect
+    instruction: Submit request to telnet server
