@@ -34,10 +34,9 @@ jobs:
     #   with:
     #     name: Go-results-${{ github.sha }}
     #     path: TestResults-${{ github.sha }}.json
-    - name: Change dir
-      run: cd cmd | ls -al
 
     - name: Build Go application
+      working-directory: ./cmd
       run: GOOS=linux GOARCH=amd64 CGO_ENABLED=0 go build -o cloud-companion-agent .
 
     - name: Set up Docker Buildx
@@ -51,6 +50,7 @@ jobs:
 
     - name: Build and push Docker image
       uses: docker/build-push-action@v2
+      working-directory: ./cmd
       with:
         context: .
         file: Dockerfile  # Adjust the path to your Dockerfile
