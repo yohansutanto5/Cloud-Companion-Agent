@@ -55,4 +55,3 @@ jobs:
         push: true
         tags: |
           yohansutanto5/cloud-companion-agent:latest
-          # yohansutanto5/tart:${{ github.sha }}
