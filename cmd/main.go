@@ -36,5 +36,5 @@ func main() {
 	log.System("Setting Up API Routes")
 	r := setupRoutes()
 	log.System("Application is running")
-	r.Run(":8078")
+	r.Run(":8090")
 }
