@@ -35,7 +35,7 @@ jobs:
     #     name: Go-results-${{ github.sha }}
     #     path: TestResults-${{ github.sha }}.json
     - name: Change dir
-      run: cd cmd
+      run: cd cmd | ls -al
 
     - name: Build Go application
       run: GOOS=linux GOARCH=amd64 CGO_ENABLED=0 go build -o cloud-companion-agent .
