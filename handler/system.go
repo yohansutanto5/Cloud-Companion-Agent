@@ -5,6 +5,7 @@ import (
 	"app/pkg/log"
 	"app/pkg/util"
 	"net/http"
+	"os"
 
 	"github.com/gin-gonic/gin"
 )
@@ -32,6 +33,7 @@ func (h *SystemHandler) GetSystemHealth(c *gin.Context) {
 	var redis bool = true
 	var database_primary bool = true
 	var database_secondary bool = true
+	var hostname string = "Unknown"
 
 	redis = h.ds.Redis != nil && func() bool {
 		_, err := h.ds.Redis.Ping().Result()
@@ -48,11 +50,21 @@ func (h *SystemHandler) GetSystemHealth(c *gin.Context) {
 		return err == nil && sqlDB.Ping() == nil
 	}()
 
+	hostname = func() string {
+		hostname, err := os.Hostname()
+		if err != nil {
+			return "Unknown"
+		}
+		return hostname
+	}()
+
 	log.Debug(util.GetTransactionID(c), "Debug System", nil)
-	result := map[string]bool{
+	result := map[string]interface{}{
 		"redis":              redis,
 		"database_primary":   database_primary,
 		"database_secondary": database_secondary,
+		"app":                true,
+		"hostname":           hostname,
 	}
 
 	c.JSON(http.StatusOK, result)

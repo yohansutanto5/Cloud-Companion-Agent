@@ -16,10 +16,11 @@ func setupRoutes() *gin.Engine {
 	systemHander := handler.NewSystemHandler(database)
 
 	UserProfilehandler := handler.NewUserProfileHandler(database)
-	Userhandler:= handler.NewUserHandler(database)
-	Connecthandler:= handler.NewConnectHandler(database)
+	Userhandler := handler.NewUserHandler(database)
+	Connecthandler := handler.NewConnectHandler(database)
+	ChaosHandler := handler.NewChaosHandler(database)
 
- //{.NewHandler}
+	//{.NewHandler}
 
 	// Define The route Path
 	// ---- System API ---
@@ -32,11 +33,12 @@ func setupRoutes() *gin.Engine {
 	r.GET("/user", Userhandler.GetList)
 	r.POST("/user", Userhandler.Insert)
 
+	r.POST("/chaos", ChaosHandler.Attack)
 
 	r.GET("/connect", Connecthandler.GetList)
 	r.POST("/connect", Connecthandler.Insert)
 	// ---- {.model} API ---
- //{.NewRoute}
+	//{.NewRoute}
 
 	return r
 }

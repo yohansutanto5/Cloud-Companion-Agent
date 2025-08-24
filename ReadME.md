@@ -77,3 +77,18 @@ For example you want to create a basic CRUD feature for object called "Course"
 3. Edit and modify it until there is no error
 4. Go to test package. Copy testtemplate folder and rename it.
 5. rename 
+
+
+## Main Feature
+1. Health Checker. 
+2. Chaos Engineering
+    - Memory (Phase 1)
+    - CPU (Phase 1)
+    - Storage (Phase 2)
+    - Througput (Phase 2)
+3. Test your CI/CD unit test pipeline
+4. Test connectivity within other application
+5. Support restAPI
+6. Support Event driven and GRPC (Phase 2)
+7. Basic CRUD operation to check your connectivity to Database
+8. Good logging practice to support ELK stack

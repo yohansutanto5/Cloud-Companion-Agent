@@ -1,0 +1,15 @@
+model: Chaos
+fields:
+  - name: Type
+    type: string
+    binding: required
+  - name: Dose
+    type: int
+    binding: none
+    constraint: notNull
+
+routers:
+  - method: post
+    call: Attack
+    path: /attack
+    instruction: Begin chaos attack

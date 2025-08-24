@@ -1,0 +1,68 @@
+{"level":"info","msg":"Loaded Configuration Environment:test from :/home/yohan/portfolio/Cloud-Companion-Agent/cmd/config/","time":"2025-08-24T09:09:32+07:00"}
+{"level":"info","msg":"Connection to Database is Established","time":"2025-08-24T09:09:32+07:00"}
+{"level":"info","msg":"Current migration version: %!s(uint=2) (dirty: %!s(bool=false))\n","time":"2025-08-24T09:09:33+07:00"}
+{"level":"info","msg":"Setting Up API Routes","time":"2025-08-24T09:09:33+07:00"}
+{"level":"info","msg":"Application is running","time":"2025-08-24T09:09:33+07:00"}
+{"level":"info","msg":"Loaded Configuration Environment:test from :/home/yohan/portfolio/Cloud-Companion-Agent/cmd/config/","time":"2025-08-24T09:10:01+07:00"}
+{"level":"info","msg":"Connection to Database is Established","time":"2025-08-24T09:10:01+07:00"}
+{"level":"info","msg":"Current migration version: %!s(uint=2) (dirty: %!s(bool=false))\n","time":"2025-08-24T09:10:01+07:00"}
+{"level":"info","msg":"Setting Up API Routes","time":"2025-08-24T09:10:01+07:00"}
+{"level":"info","msg":"Application is running","time":"2025-08-24T09:10:01+07:00"}
+{"level":"info","msg":"Loaded Configuration Environment:test from :/home/yohan/portfolio/Cloud-Companion-Agent/cmd/config/","time":"2025-08-24T09:10:20+07:00"}
+{"level":"info","msg":"Connection to Database is Established","time":"2025-08-24T09:10:21+07:00"}
+{"level":"info","msg":"Current migration version: %!s(uint=2) (dirty: %!s(bool=false))\n","time":"2025-08-24T09:10:22+07:00"}
+{"level":"info","msg":"Setting Up API Routes","time":"2025-08-24T09:10:22+07:00"}
+{"level":"info","msg":"Application is running","time":"2025-08-24T09:10:22+07:00"}
+{"Code":"APP-SUCCESS","agent":"Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0","clientIp":"127.0.0.1","duration":209,"level":"info","method":"GET","msg":"Success","path":"/health","status":200,"time":"2025-08-24T09:11:15+07:00","transactionID":648803}
+{"Code":"APP-SUCCESS","agent":"Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0","clientIp":"127.0.0.1","duration":0,"level":"info","method":"GET","msg":"Success","path":"/favicon.ico","status":404,"time":"2025-08-24T09:11:16+07:00","transactionID":694326}
+{"level":"info","msg":"Loaded Configuration Environment:test from :/home/yohan/portfolio/Cloud-Companion-Agent/cmd/config/","time":"2025-08-24T11:01:09+07:00"}
+{"level":"info","msg":"Connection to Database is Established","time":"2025-08-24T11:01:09+07:00"}
+{"level":"info","msg":"Current migration version: %!s(uint=2) (dirty: %!s(bool=false))\n","time":"2025-08-24T11:01:11+07:00"}
+{"level":"info","msg":"Setting Up API Routes","time":"2025-08-24T11:01:11+07:00"}
+{"level":"info","msg":"Application is running","time":"2025-08-24T11:01:11+07:00"}
+{"level":"info","msg":"Loaded Configuration Environment:test from :/home/yohan/portfolio/Cloud-Companion-Agent/cmd/config/","time":"2025-08-24T11:02:23+07:00"}
+{"level":"info","msg":"Connection to Database is Established","time":"2025-08-24T11:02:23+07:00"}
+{"level":"info","msg":"Current migration version: %!s(uint=2) (dirty: %!s(bool=false))\n","time":"2025-08-24T11:02:24+07:00"}
+{"level":"info","msg":"Setting Up API Routes","time":"2025-08-24T11:02:24+07:00"}
+{"level":"info","msg":"Application is running","time":"2025-08-24T11:02:24+07:00"}
+{"Code":"APP-SUCCESS","agent":"Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0","clientIp":"127.0.0.1","duration":0,"level":"info","method":"OPTIONS","msg":"Success","path":"/chaos","status":404,"time":"2025-08-24T11:04:13+07:00","transactionID":622606}
+{"level":"info","msg":"Loaded Configuration Environment:test from :/home/yohan/portfolio/Cloud-Companion-Agent/cmd/config/","time":"2025-08-24T11:05:28+07:00"}
+{"level":"info","msg":"Connection to Database is Established","time":"2025-08-24T11:05:28+07:00"}
+{"level":"info","msg":"Current migration version: %!s(uint=2) (dirty: %!s(bool=false))\n","time":"2025-08-24T11:05:29+07:00"}
+{"level":"info","msg":"Setting Up API Routes","time":"2025-08-24T11:05:29+07:00"}
+{"level":"info","msg":"Application is running","time":"2025-08-24T11:05:29+07:00"}
+{"Code":"APP-SUCCESS","agent":"PostmanRuntime/7.45.0","clientIp":"::1","duration":139,"level":"info","method":"GET","msg":"Success","path":"/health","status":200,"time":"2025-08-24T11:05:34+07:00","transactionID":365359}
+{"Code":"APP-SUCCESS","agent":"PostmanRuntime/7.45.0","clientIp":"::1","duration":0,"level":"info","method":"POST","msg":"Success","path":"/chaos","status":201,"time":"2025-08-24T11:06:09+07:00","transactionID":211296}
+{"Code":"APP-SUCCESS","agent":"PostmanRuntime/7.45.0","clientIp":"::1","duration":0,"level":"info","method":"POST","msg":"Success","path":"/chaos","status":201,"time":"2025-08-24T11:06:50+07:00","transactionID":537423}
+{"level":"info","msg":"Loaded Configuration Environment:test from :/home/yohan/portfolio/Cloud-Companion-Agent/cmd/config/","time":"2025-08-24T11:07:37+07:00"}
+{"level":"info","msg":"Connection to Database is Established","time":"2025-08-24T11:07:37+07:00"}
+{"level":"info","msg":"Current migration version: %!s(uint=2) (dirty: %!s(bool=false))\n","time":"2025-08-24T11:07:38+07:00"}
+{"level":"info","msg":"Setting Up API Routes","time":"2025-08-24T11:07:38+07:00"}
+{"level":"info","msg":"Application is running","time":"2025-08-24T11:07:38+07:00"}
+{"Code":"APP-SUCCESS","agent":"PostmanRuntime/7.45.0","clientIp":"::1","duration":0,"level":"info","method":"POST","msg":"Success","path":"/chaos","status":201,"time":"2025-08-24T11:07:46+07:00","transactionID":449301}
+{"Code":"APP-SUCCESS","agent":"PostmanRuntime/7.45.0","clientIp":"::1","duration":3,"level":"info","method":"POST","msg":"Success","path":"/chaos","status":201,"time":"2025-08-24T11:08:00+07:00","transactionID":615613}
+{"level":"info","msg":"Loaded Configuration Environment:test from :/home/yohan/portfolio/Cloud-Companion-Agent/cmd/config/","time":"2025-08-24T11:09:23+07:00"}
+{"level":"info","msg":"Connection to Database is Established","time":"2025-08-24T11:09:24+07:00"}
+{"level":"info","msg":"Current migration version: %!s(uint=2) (dirty: %!s(bool=false))\n","time":"2025-08-24T11:09:25+07:00"}
+{"level":"info","msg":"Setting Up API Routes","time":"2025-08-24T11:09:25+07:00"}
+{"level":"info","msg":"Application is running","time":"2025-08-24T11:09:25+07:00"}
+{"Code":"APP-SUCCESS","agent":"Mozilla/5.0 (X11; Linux x86_64; rv:142.0) Gecko/20100101 Firefox/142.0","clientIp":"127.0.0.1","duration":0,"level":"info","method":"OPTIONS","msg":"Success","path":"/chaos","status":404,"time":"2025-08-24T11:09:28+07:00","transactionID":318102}
+{"Code":"APP-SUCCESS","agent":"PostmanRuntime/7.45.0","clientIp":"::1","duration":30030,"level":"info","method":"POST","msg":"Success","path":"/chaos","status":201,"time":"2025-08-24T11:10:05+07:00","transactionID":175713}
+{"level":"info","msg":"Loaded Configuration Environment:test from :/home/yohan/portfolio/Cloud-Companion-Agent/cmd/config/","time":"2025-08-24T11:10:24+07:00"}
+{"level":"info","msg":"Connection to Database is Established","time":"2025-08-24T11:10:25+07:00"}
+{"level":"info","msg":"Current migration version: %!s(uint=2) (dirty: %!s(bool=false))\n","time":"2025-08-24T11:10:26+07:00"}
+{"level":"info","msg":"Setting Up API Routes","time":"2025-08-24T11:10:26+07:00"}
+{"level":"info","msg":"Application is running","time":"2025-08-24T11:10:26+07:00"}
+{"Code":"APP-SUCCESS","agent":"PostmanRuntime/7.45.0","clientIp":"::1","duration":6,"level":"info","method":"POST","msg":"Success","path":"/chaos","status":201,"time":"2025-08-24T11:10:31+07:00","transactionID":423573}
+{"Code":"APP-SUCCESS","agent":"PostmanRuntime/7.45.0","clientIp":"::1","duration":13,"level":"info","method":"POST","msg":"Success","path":"/chaos","status":201,"time":"2025-08-24T11:10:48+07:00","transactionID":231538}
+{"level":"info","msg":"Loaded Configuration Environment:test from :/home/yohan/portfolio/Cloud-Companion-Agent/cmd/config/","time":"2025-08-24T11:13:41+07:00"}
+{"level":"info","msg":"Connection to Database is Established","time":"2025-08-24T11:13:42+07:00"}
+{"level":"info","msg":"Current migration version: %!s(uint=2) (dirty: %!s(bool=false))\n","time":"2025-08-24T11:13:43+07:00"}
+{"level":"info","msg":"Setting Up API Routes","time":"2025-08-24T11:13:43+07:00"}
+{"level":"info","msg":"Application is running","time":"2025-08-24T11:13:43+07:00"}
+{"level":"info","msg":"Loaded Configuration Environment:test from :/home/yohan/portfolio/Cloud-Companion-Agent/cmd/config/","time":"2025-08-24T11:14:27+07:00"}
+{"level":"info","msg":"Connection to Database is Established","time":"2025-08-24T11:14:27+07:00"}
+{"level":"info","msg":"Current migration version: %!s(uint=2) (dirty: %!s(bool=false))\n","time":"2025-08-24T11:14:28+07:00"}
+{"level":"info","msg":"Setting Up API Routes","time":"2025-08-24T11:14:28+07:00"}
+{"level":"info","msg":"Application is running","time":"2025-08-24T11:14:28+07:00"}
+{"Code":"APP-SUCCESS","agent":"PostmanRuntime/7.45.0","clientIp":"::1","duration":5005,"level":"info","method":"POST","msg":"Success","path":"/chaos","status":201,"time":"2025-08-24T11:14:39+07:00","transactionID":258588}
